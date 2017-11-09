@@ -1,4 +1,7 @@
 # MASSMELLO
+
+MOVING TO GITLAB FOR FURTHER DEVELOPMENT. https://
+
 - under construction. no specified date as to when it won't be.
 
 <img src="https://p5b4y2t6.ssl.hwcdn.net/game-thumbnail/400/253265-crop0_64_588_395-icw3tcwp-v3.jpg">
